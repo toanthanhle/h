@@ -25,6 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/h" # the subpath of your site, e.g. /blog
 url: "https://toanthanhle.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Fields minima uses, but are not defaulted
+author: Tim
+linkedin_username: toan-le-802858270
+
 # Build settings
 theme: minima
 plugins:
