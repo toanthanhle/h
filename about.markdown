@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+# ![profile picture](/assets/profilepic.jpeg)
 
 Tim Le is an educator from Vietnam. He has worked as a Summer Camp Director, Filmmaker and an ESL Teacher.    
 
