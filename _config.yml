@@ -22,7 +22,7 @@ title: Tim Le 🇻🇳
 email: letoaneu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tim is an educator. He's living in Vinh City, Vietnam.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://tim.io.vn" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Fields minima uses, but are not defaulted
