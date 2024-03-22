@@ -6,11 +6,70 @@ layout: post
 - is to make learning fun and accessible for as many people as possible.
 - I believe that people should have access to knowledge that they want to learn, should be able to learn from the best, improve their lives and their knowledge, no matter the circumstances of their finance and their living conditions. 
 - I believe in learning the essential skills in a fun and meaningful way. 
+____
+# HOW YOU PLAN TO APPLY THESE KNOWLEDGE AND SKILLS?
+
+There are two things that I will do. 
+
+At the organizational level, the first thing is to join an influential university that are open to digital transformation yet lacking the personel to do so. A would-be digital education expert would be able to help implement the transition. Combined with knowledge learned from the course and the skills of working with a variety of stakeholders, I aim to become agent of change and contribute to this process. This will set an example for other universities that are still hesitant.
+
+At societal level, the second thing would be to carry out digital education tools training that target digital education adoption in remote area, these can be done by campaign that target teachers of mountainous areas, particularly ones where internet adoption are higher. 
+
+With my knowledge and certification from Google and Apple, which are adopted by most people in Vietnam, plus the learning experience design, I can facilitate this process. 
+___
+# WHY THOSE IMPORTANT TO VIETNAM'S DEVELOPMENT?
+These skills can help solve 2 major problems with Vietnamese education sphere at the moment: the lack of high-quality efforts towards building digital learning solutions and the inequality in education quality between urban and rural area. 
+
+The first problem is due to the fact that "most University and schools in VN is still not fully transitioning to digital learning and teaching due to the lack of MOOCs, LMS system and staff specilizing in interactive lectures" **ref 1**, also lack of human resources to apply digital technology in the educational settings **ref 2**. Knowledge of best practices to setup and maintain quality learning solutions for these institution is therefore crucial to faciliate the transition to digital schools, which would improve capability of human resources, particularly to workforce-ready graduates. 
+
+The second problem is the gap between rural and urban area. Rural areas in Vietnam faced a physical challenge as shortage of teachers, who were unwilling to teach due to harsh conditions and low wage, and facilities. This calls for digital learning platform as a way to solve this, backed by the fact that thease area has the foundation for digital education, 91% of these areas are internet-accessible **3** and almost 79% have access to smartphones **ref 4** Knowledge of digital learning and help create a product and further boost the effort to setup digital learning solution to provide opportunities for rural students and bridge this gap.
+
+> 1 https://vietnamnet.vn/en/hurdles-for-digital-university-lack-of-money-desire-to-change-2212752.html
+> 2 https://www.britishcouncil.vn/sites/default/files/report_readiness_of_digital_transformation_in_vietnamese_universities.pdf
+> 3 https://www.statista.com/statistics/1240679/vietnam-media-penetration-in-rural-areas-by-category/#:~:text=In%202020%2C%20the%20penetration%20rate,90%20percent%20in%20rural%20Vietnam. 
+> 4 https://www.statista.com/statistics/1111775/vietnam-ownership-of-digital-devices-and-services-in-rural-areas/ 
+
+____
+# WHAT SKILLS AND KNOWLEDGE YOU HOPE TO GAIN?
+Upon completing my proposed study programme, I hope to have gained science-backed understanding of how people learn, and how to best facilitate learning. These points of knowledge has been a major desire of mine to explore, and my unique experience in both outdoor and classroom learning settings, with different motives and approach to learning, only amplify my needs to better explore and understand them. I also wish to have had a thorough understanding and measuring of the impact of digital learning, a fairly novel concept in the educational field.
+
+My second goal is to get deeper understanding of technology-enhanced learning, particularly with digital learning platform and solutions. Knowledge from outdoor experiential learning was particularly helpful, however, it was limiting as how many I can serve and it was temporary. Switching to classroom environment, I found the inspiration from technology-enhanced learning, after Covid proved the need to switch to online learning, 
+
+All in all, my ultimate skills to hopefully achieve after my time in NZ is to be informed scientifically, on how people learn, investigate the benefits and drawbacks of technology-enhanced educational practices, in relations to learning environment and have the convictions to apply that knowledge to create effective learning solutions, with focus on digital modality.
+___
+
+Choose or create digital tools to enhance learning that complement a variety of learners and learning environments. 
+
+All in all, my ultimate skills to hopefully achieve after my time in NZ is to be informed by science on how to create effective learning solutions that complement Choose or create digital tools to enhance learning that complement a variety of learners and learning environments. 
+
+My personal and professional experience has shown the fact that people don't learn in a specific way, but there is a lot of moving parts involved. My goal is to have the most updated scientifically-proven understanding of these parts and how to make learning personal, possible with the help of technology, which I think is the most efficient way to approach learning.  
+
+Upon completing my proposed study programme, I hope to have gained science-backed understanding of how people learn, b how to best facilitate learning. 
+
+____
+
+Another major concern of mine is how people approach different kind of materials, modality and 
+How to best approach creating instructional materials, learning models
+Another niche inquiry of mine is also how culture and cultural values influence the way we learn. 
+
+Investigate educational practice to understand the benefits and issues surrounding them.
+Develop a more extensive understanding of technology-enhanced learning.
+Understand and examine the impact of digital technologies on learning, along with the opportunities and shortcomings that these technologies bring about.
+Achieve research-informed teaching and learning practice.
+Choose and create digital tools to enhance learning that complement a variety of learners and learning environments.
+Develop as a digital education leader through exploring models of leadership and change, while engaging in digital learning experience such as leading online seminars, conduct field observation and engage in project work to prompt and understand change within their own contexts in an evolving, digitally mediated society.
 
 ## What knowledge and skills do you expect to learn from your proposed program of study?
-Can this program of study provide you with your desired knowledge and skills? 
+Can this program of study provide you with your desired knowledge and skills?
+- ability to run digital learning program
+- learn how people learn
+- learn best practices on creating engaging and effective learning experience
+- ability to carry out independent research and create research-informed solutions
 
 ## Why are these knowledge and skills important to your country's development?
+- Vietnam is transitioning into digital education
+- Problem 1 is not many quality digital learning solutions for institutions such as universities
+- Problem 2 is the potentiality to bridge the gap between rural and urban area with digital learning options
 
 Because Vietnam has this problem, in order for it to be solved and for my country to develop in this respect, these knowledge, skills and my experience can help solve it!
 
@@ -95,3 +154,24 @@ In the end, I wanted to prove that I got enough knowledge of the field that it w
 How do I make it easy for people to accept whatever I wanted to propose. To satisfy and exceed their requirements.
 
 I wanted to create cool activities that would have the audience go wow, that would have to wholeheartedly engaged in and with others, that in the end, they would have learned a lesson or two for themselves through not by just absorbing information, but actively excercising and building up to the outcomes. 
+
+# Establish relationship
+...
+
+## How it happened
+
+## What did you do?
+
+## What was the outcome?
+
+
+## Self-drive
+
+# Situation
+# Action
+# Outcome
+
+# Why NZ
+Knowledge and exposure from a diverse culture where many cultures meet like NZ would be vital to adapt this process to a place like Vietnam, where mountainous areas are mostly consist of different ethnic groups.
+# What would you do to prepare for the move to and the challenges during your study in NZ?
+
