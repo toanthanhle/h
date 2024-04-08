@@ -5,8 +5,10 @@ date:   2024-04-08 17:53 +0700
 categories: Old-but-gold Tech
 ---
 
-This video is going to be about Old tech that still exists today. When we use our computer, we rarely pay attention to one very important part of it – The Keyboard. It is everywhere, our laptop, smartphones. Unless it breaks, you will probably never going to think twice about it. Well, let me help you with some questions. Why are they designed like that? And what’s with the weird QWERTY layout, why not ALPHABET layout, isn’t that more straightforward? And why is these keys named “return”, “shift” and “caps lock”? 
-    To answer these questions, we have to look an old tech that preceeds our modern keyboard – the typewriter keyboard. Here’s an old but gold tech.
+This video is going to be about Old tech that still exists today. When we use our computer, we rarely pay attention to one very important part of it – The Keyboard. It is everywhere, our laptop, smartphones. Unless it breaks, you will probably never going to think twice about it. Well, let me help you with some questions.     
+
+Why are they designed like that? And what’s with the weird QWERTY layout, why not ALPHABET layout, isn’t that more straightforward? And why is these keys named “return”, “shift” and “caps lock”? 
+To answer these questions, we have to look an old tech that preceeds our modern keyboard – the typewriter keyboard. Here’s an old but gold tech.
 
 Before keyboard was being invented, pens were the most popular form of documenting our thoughts. However, the need for writing longer text while also being lazy humans ourselves means we need something that can write faster. 
 Some initial ideas for a machine that can be typed into words were made into prototypes. However, most of them were not really friendly enough to use, and certainly were not ready to be adopted widely by an average Joe. This one you cannot see what you were typing. This one was just plainly confusing. This one was downright wacko.  It was not until 17-something that an American named Christopher Latham Sholes came up with what is considered the first Typewriter. Christopher, a print-guy who wanted to churn out more newspaper faster, took inspiration from one of the previous typewriters, which was mostly piano-shaped, to design a prototype that shaped like a piano. (Add story about a different iteration of early typewriters made by Sholes, adding the story about an investor who sticked with Sholes because the investor believed in the machine)   
